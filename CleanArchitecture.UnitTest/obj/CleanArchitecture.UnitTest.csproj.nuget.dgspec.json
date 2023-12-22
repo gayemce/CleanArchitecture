@@ -1,0 +1,311 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectName": "CleanArchitecture.Application",
+        "projectPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFrameworkCore.Pagination": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectName": "CleanArchitecture.Domain",
+        "projectPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFrameworkCore.GenericRepository.Nuget": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj",
+        "projectName": "CleanArchitecture.Presentation",
+        "projectPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFrameworkCore.Pagination": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj",
+        "projectName": "CleanArchitecture.UnitTest",
+        "projectPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.UnitTest\\CleanArchitecture.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              },
+              "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj": {
+                "projectPath": "C:\\Users\\Win10\\Desktop\\WorkSpace\\Projects\\CleanArchitecture\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Presentation.deps.json
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Presentation.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Presentation.pdb
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.AssemblyInfo.cs
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\refint\CleanArchitecture.Presentation.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.pdb
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\ref\CleanArchitecture.Presentation.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Domain.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.csproj.CopyComplete
