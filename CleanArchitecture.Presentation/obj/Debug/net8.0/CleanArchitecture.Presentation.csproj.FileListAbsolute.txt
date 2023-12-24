@@ -15,3 +15,6 @@ C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Pr
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Application.pdb
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.csproj.CopyComplete
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\obj\Debug\net8.0\CleanArchitecture.Presentation.sourcelink.json
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Presentation\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb

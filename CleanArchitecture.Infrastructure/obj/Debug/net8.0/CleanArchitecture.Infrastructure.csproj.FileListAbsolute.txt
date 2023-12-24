@@ -15,3 +15,4 @@ C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.In
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\net8.0\CleanArchitecture.Domain.pdb
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\net8.0\CleanArchitecture.Infrastructure.sourcelink.json

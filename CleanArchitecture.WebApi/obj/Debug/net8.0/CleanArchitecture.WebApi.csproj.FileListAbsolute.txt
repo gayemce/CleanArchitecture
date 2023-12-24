@@ -156,3 +156,15 @@ C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.We
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Infrastructure.dll
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\obj\Debug\net8.0\CleanArchitecture.WebApi.sourcelink.json
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.WebApi\bin\Debug\net8.0\Serilog.Sinks.PeriodicBatching.dll

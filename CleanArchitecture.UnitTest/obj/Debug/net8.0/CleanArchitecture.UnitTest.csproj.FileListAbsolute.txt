@@ -153,3 +153,4 @@ C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Un
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.UnitTest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.UnitTest\obj\Debug\net8.0\CleanArchitecture.UnitTest.sourcelink.json

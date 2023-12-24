@@ -17,3 +17,4 @@ C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Pe
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\ref\CleanArchitecture.Persistance.dll
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Application.dll
 C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Users\Win10\Desktop\WorkSpace\Projects\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\net8.0\CleanArchitecture.Persistance.sourcelink.json
